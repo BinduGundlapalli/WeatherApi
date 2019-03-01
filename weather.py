@@ -56,7 +56,7 @@ def processRequest(req):
     return {
         "speech": speech,
         "displayText": speech,
-        "source": "dialogflow-weather-by-satheshrgs"
+        "source": "dialogflow-weather"
         }
     
 if __name__ == '__main__':
